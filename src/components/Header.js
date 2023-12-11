@@ -16,4 +16,7 @@ const Container = styled.div`
     display: flex;
     justify-content: center;
     background-color: blueviolet;
+    > input {
+      outline: none;
+    }
 `;

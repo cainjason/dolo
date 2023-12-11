@@ -15,4 +15,5 @@ const Container = styled.div`
   height: 90vh;
   width: 240px;
   background-color: gray;
+  transition: 3;
 `;
